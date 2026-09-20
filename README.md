@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Zaynah 👋
 
-<!--
-**zaynah-ali/zaynah-ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Internal Recruiter with a growing focus on data analytics. I'm currently completing an NZQA Level 5 Diploma in Digital Technology Development and Design with Mission Ready.
 
-Here are some ideas to get you started:
+## 📊 Data Analytics Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Power BI
+- Microsoft Fabric
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualisation
+- Statistical Analysis
+
+## 💼 About Me
+
+My professional background includes recruitment, healthcare, operations and coordination. I'm developing my data analytics skills to combine my business experience with data-driven problem solving and decision making.
+
+## 📁 Portfolio Projects
+
+I'm currently building my portfolio with projects completed through Mission Ready, including:
+
+- 🏠 Real Estate Price Analysis & Multiple Linear Regression
+- 📈 Retail Sales Data Analysis
+- 📊 Power BI Retail Analysis
+
+## 🌱 Currently Learning
+
+I'm continuing to develop my skills in Python, SQL, Power BI and data analytics.
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav
+
