@@ -31,5 +31,5 @@ I'm continuing to develop my skills in Python, SQL, Power BI and data analytics.
 
 ## 🔗 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav
+- LinkedIn: www.linkedin.com/in/zaynah-ali-228b0221a
 
