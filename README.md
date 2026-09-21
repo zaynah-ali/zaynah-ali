@@ -1,35 +1,34 @@
 # Hi, I'm Zaynah 👋
 
-I'm a Talent Acquisition Partner with a growing focus on data analytics. I'm currently completing an NZQA Level 5 Diploma in Digital Technology Development and Design with Mission Ready.
+I'm a Talent Acquisition Partner with experience across recruitment, healthcare, operations and coordination. Alongside my professional experience, I'm developing my skills in data analytics and currently completing an NZQA Level 5 Diploma in Digital Technology Development and Design with Mission Ready.
 
 ## 📊 Data Analytics Skills
 
 - Python
 - SQL
 - Power BI
+- Pandas
 - Microsoft Fabric
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualisation
-- Statistical Analysis
+- Correlation Analysis
 
-## 💼 About Me
+## 💼 Professional Background
 
-My professional background includes recruitment, healthcare, operations and coordination. I'm developing my data analytics skills to combine my business experience with data-driven problem solving and decision making.
+My professional background includes talent acquisition, recruitment, healthcare, operations and coordination. I'm particularly interested in combining my business and stakeholder experience with data to identify patterns, improve processes and support better decision-making.
 
 ## 📁 Portfolio Projects
 
-I'm currently building my portfolio with projects completed through Mission Ready, including:
+### 📊 Sales Data Exploratory Analysis
+Exploratory data analysis completed using Python and Pandas to investigate a sales dataset, identify patterns and relationships, and communicate findings through data visualisation.
 
-- 🏠 Real Estate Price Analysis & Multiple Linear Regression
-- 📈 Retail Sales Data Analysis
-- 📊 Power BI Retail Analysis
+**Skills demonstrated:** Python, Pandas, EDA, data cleaning, summary statistics, data visualisation and correlation analysis.
 
 ## 🌱 Currently Learning
 
-I'm continuing to develop my skills in Python, SQL, Power BI and data analytics.
+I'm continuing to develop my skills in Python, SQL, Power BI and data analytics through practical projects.
 
 ## 🔗 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/zaynah-ali-228b0221a
-
