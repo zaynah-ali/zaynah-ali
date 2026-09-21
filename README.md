@@ -1,6 +1,6 @@
 # Hi, I'm Zaynah 👋
 
-I'm an Internal Recruiter with a growing focus on data analytics. I'm currently completing an NZQA Level 5 Diploma in Digital Technology Development and Design with Mission Ready.
+I'm a Talent Acquisition Partner with a growing focus on data analytics. I'm currently completing an NZQA Level 5 Diploma in Digital Technology Development and Design with Mission Ready.
 
 ## 📊 Data Analytics Skills
 
